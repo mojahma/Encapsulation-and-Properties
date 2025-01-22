@@ -1,0 +1,15 @@
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\bin\Debug\net8.0\encapsulation-and-properties.exe
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\bin\Debug\net8.0\encapsulation-and-properties.deps.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\bin\Debug\net8.0\encapsulation-and-properties.runtimeconfig.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\bin\Debug\net8.0\encapsulation-and-properties.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\bin\Debug\net8.0\encapsulation-and-properties.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\encapsulation-and-properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\encapsulation-and-properties.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\encapsulation-and-properties.AssemblyInfo.cs
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\encapsulation-and-properties.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\encapsulation-and-properties.sourcelink.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\encapsulation-and-properties.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\refint\encapsulation-and-properties.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\encapsulation-and-properties.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\encapsulation-and-properties.genruntimeconfig.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\6. Encapsulation and Properties\encapsulation-and-properties\obj\Debug\net8.0\ref\encapsulation-and-properties.dll
